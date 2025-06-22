@@ -15,5 +15,7 @@ Although each task takes a varying amount of time, using callback functions ensu
 Each chore function (after mowing the yard) will generate a random integer between 0-10 at the beginning.
 
 If the random number is above the required threshold, the person will complete the chore successfully and move on to the next via callback function.
+
 If the number is below the required threshold, the person will fall asleep and the callback function for the next task will not be called.
+
 The required threshold increases gradually with each subsequent chore, simulating a person growing more tired as they complete more chores.
