@@ -1,6 +1,6 @@
-# Summer Chores (Callback Version)
+# Summer Chores
 
-This code simulates completing a list of summer chores using callback functions. The person must complete the following list of chores in this specific order:
+These three scrips simulate completing a list of summer chores using asynchronous Javascript. The person must complete the following list of chores in this specific order:
 
 1. Mowing the yard
 2. Weedeating the edges of the house and fence line
@@ -8,7 +8,7 @@ This code simulates completing a list of summer chores using callback functions.
 4. Collect fallen wood for summer night fires
 5. Water the garden
 
-Although each task takes a varying amount of time, using callback functions ensures the chores will be completed in the correct order.
+Although each task takes a varying amount of time, using callback functions, Promises, or async/await ensures the chores will be completed in the correct order.
 
 ## Simulating Tiredness
 
